@@ -214,23 +214,17 @@ function BlogPage(){
             <div class="card h-100">
             
               <img class="card-header"
-                src="img\yogitocat.png"
+                src="https://images.pexels.com/photos/4066295/pexels-photo-4066295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               />
             
             <div class="card-body">
-              <h4><a href="#">Week 4</a></h4>
+              <h4><a href="https://vanessadickey.github.io/bootcamp-blog/styleguide.html">Contact Card</a></h4>
               <p class="card-text text-truncate-11">
-                We are in Sprint 1! Goodbye, onboarding - hello, world! I chose yogitocat today because I feel calm and in the moment. I'm ready to accept the things I learn and embrace the struggle of the unknown.
-
-I'm being held back by a desire to want to keep my old schedule with going to the gym and having time to play videogames in my downtime. I have to embrace that this bootcamp is a short commitment to put learning at the top of my scheduling hierarchy but it's not forever. The gym and my steam library will be waiting for me in a couple short months.
-
-I would like to learn more about JSON and not be as intimidated by it. I can do this by reviewing old freeCodeCamp lessons and reading documentation.
-
-What is my "why" for this bootcamp? I want independence and a new skillset to be artistic and innovative. I want to build long term ties with my battle buddy teachers and classmates.
+               A contact card for my blog.
               </p>
             </div>
             <div class="card-footer">
-              <a href="#">more...</a>
+              <a href="https://github.com/vanessadickey/bootcamp-blog/blob/main/styleguide.html?authuser=0">Github</a>
             </div>
           </div>
             </div>
