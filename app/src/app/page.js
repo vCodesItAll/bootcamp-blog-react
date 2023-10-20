@@ -324,6 +324,26 @@ function BlogPage(){
             </div>
           </div>
           </div>
+
+          <div class ="col-lg-3 col-md-4 col-sm-6 mb-4">
+          <div class="card h-100">
+           
+              <img class="card-header"
+                src="https://images.pexels.com/photos/6491953/pexels-photo-6491953.jpeg?auto=compress&cs=tinysrgb&w=800"
+              />
+            
+            <div class="card-body">
+              <h4><a href="https://cleaned-up-mind-reader.glitch.me">Mind Reader Trick</a></h4>
+              <p class="card-text text-truncate-11">
+              A "Peter Answers" clone prank website where you input a secret answer and it appears as if a 
+              psychic entity is answering the questions.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href="https://glitch.com/edit/#!/cleaned-up-mind-reader">Glitch</a>
+            </div>
+          </div>
+          </div>
           {/* <!-- /.row --> */}
         </div>
         {/* <!-- /.col-lg-9 --> */}
