@@ -153,7 +153,7 @@ function BlogPage(){
               
              
                 <img class="card-header"
-                  src="img\mummytocat.gif"
+                  src="https://images.pexels.com/photos/4316425/pexels-photo-4316425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 />
            
               <div class="card-body">
