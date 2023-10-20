@@ -306,6 +306,24 @@ function BlogPage(){
           </div>
           </div>
 
+          <div class ="col-lg-3 col-md-4 col-sm-6 mb-4">
+          <div class="card h-100">
+           
+              <img class="card-header"
+                src="https://images.pexels.com/photos/4279811/pexels-photo-4279811.jpeg?auto=compress&cs=tinysrgb&w=800"
+              />
+            
+            <div class="card-body">
+              <h4><a href="https://vanessaimagegallery.glitch.me">Image Gallery</a></h4>
+              <p class="card-text text-truncate-11">
+              A JavaScript-powered image gallery.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href="https://glitch.com/edit/#!/vanessaimagegallery">Glitch</a>
+            </div>
+          </div>
+          </div>
           {/* <!-- /.row --> */}
         </div>
         {/* <!-- /.col-lg-9 --> */}
