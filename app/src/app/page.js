@@ -253,21 +253,17 @@ function BlogPage(){
           <div class="card h-100">
             
               <img class="card-header text-truncate-11"
-                src="https://cdn.glitch.com/35629163-c36f-412c-8c36-5159d684a379%2Fimg-6.jpeg?v=1584546055680"
+                src="https://images.pexels.com/photos/15961685/pexels-photo-15961685/free-photo-of-tic-tac-toe-with-hearts-on-cake.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               />
             
             <div class="card-body">
-              <h4><a href="#">Week 6</a></h4>
+              <h4><a href="https://vanessadickey.github.io/tic-tac-toe/?authuser=0">Tic-Tac-Toe</a></h4>
               <p class="card-text text-truncate-11">
-                Skid on floor, crash into wall litter kitter kitty litty little
-                kitten big roar roar feed me and bite nose of your human lick
-                master's hand at first then bite because im moody for intently
-                sniff hand flex claws on the human's belly and purr like a
-                lawnmower.
+              A webpage that recreates the childhood classic game, tic-tac-toe, using JavaScript, HTML, and the Bootstrap CSS framework (minimal custom CSS).
               </p>
             </div>
             <div class="card-footer">
-              <a href="week-6.html">more...</a>
+              <a href="https://github.com/vanessadickey/tic-tac-toe?authuser=0">Github</a>
             </div>
           </div>
           </div>
@@ -276,21 +272,17 @@ function BlogPage(){
           <div class="card h-100">
          
               <img class="card-header"
-                src="https://cdn.glitch.com/35629163-c36f-412c-8c36-5159d684a379%2Fimg-7.jpeg?v=1584546055774"
+                src="https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg?auto=compress&cs=tinysrgb&w=800"
               />
             
             <div class="card-body">
-              <h4><a href="#">Week 7</a></h4>
+              <h4><a href="https://github.com/vanessadickey/react-random-restaurant">Random Restaurant</a></h4>
               <p class="card-text text-truncate-11">
-                Skid on floor, crash into wall litter kitter kitty litty little
-                kitten big roar roar feed me and bite nose of your human lick
-                master's hand at first then bite because im moody for intently
-                sniff hand flex claws on the human's belly and purr like a
-                lawnmower.
+              A menu website for a new restaurant using an API to generate a sample menu.
               </p>
             </div>
             <div class="card-footer">
-              <a href="#">more...</a>
+              <a href="https://github.com/vanessadickey/react-random-restaurant">Github</a>
             </div>
           </div>
           </div>
@@ -299,21 +291,17 @@ function BlogPage(){
           <div class="card h-100">
            
               <img class="card-header"
-                src="https://cdn.glitch.com/35629163-c36f-412c-8c36-5159d684a379%2Fimg-8.jpeg?v=1584546055237"
+                src="https://images.pexels.com/photos/7718677/pexels-photo-7718677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               />
             
             <div class="card-body">
-              <h4><a href="#">Week 8</a></h4>
+              <h4><a href="https://github.com/vanessadickey/to-do-list-2">To-Do List</a></h4>
               <p class="card-text text-truncate-11">
-                Skid on floor, crash into wall litter kitter kitty litty little
-                kitten big roar roar feed me and bite nose of your human lick
-                master's hand at first then bite because im moody for intently
-                sniff hand flex claws on the human's belly and purr like a
-                lawnmower.
+              An online to-do list manager application using React to keep track of todos with full CRUD (Create/Read/Update/Delete) functionality. 
               </p>
             </div>
             <div class="card-footer">
-              <a href="#">more...</a>
+              <a href="https://github.com/vanessadickey/to-do-list-2">Github</a>
             </div>
           </div>
           </div>
