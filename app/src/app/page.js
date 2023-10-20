@@ -233,34 +233,18 @@ function BlogPage(){
             <div class="card h-100">
             
               <img class="card-header"
-                src="img\boxertocat_octodex.jpg"
+                src="https://images.pexels.com/photos/1828305/pexels-photo-1828305.jpeg?auto=compress&cs=tinysrgb&w=800"
               />
             
             <div class="card-body">
-              <h4><a href="week-5.html">Week 5</a></h4>
+              <h4><a href="https://vanessadickey.github.io/project-weather-app/">Weather App</a></h4>
               <p class="card-text text-truncate-11">
-                - I've made it to Sprint 2 - VanillaJS.  I chose boxertocat because I feel empowered to kick javascript's butt.  I think I have a
-                leg up because javascript is not the first logical programming language I've learned so I know there is getting past the cliff of despair when it comes to adding to your language repertoire.
-                I also feel empowered because we studied a lot of javascript lessons over the summer during pre-work.
+              A webpage that prompts users to enter a zip code, then displays current weather information for that location or a friendly error message if the zip code is not found.
 
-                - One thing that I've learned is that the development process is a lot like making a
-                sandwich (oh great now I'm craving a tofurkey sandwich on sourdough as I type this at 1:30am...mmmmmmm sourdough).
-                You need to gather all your ingredients (requirements), prepare your workspace (set up your development environment),
-                and then start building your sandwich (writing code).  But the key is to take it one step at a time, just like you'd add ingredients
-                 one by one. And, just like with a sandwich, if you mess up a step, you might end up with a messy code sandwich!
-
-                - Developing good code is like creating a recipe that's easy for others to follow (or your future self who will likely forget what you were doing).
-                You want to make sure your code doesn't waste resources or take forever to execute because then the user will get hangry.
-
-                - Being a good developer goes beyond writing code.  You have to communicate well, work collaboratively, and be open to 
-                learning and improving your skills.  You have to be patient when bugs appear and be able to balance creativity with structure similar to a comedian who ties
-                spontaniety with well-rehearsed routine.
-
-                - You know what programmers hate doing? Naming things because naming is hard.
               </p>
             </div>
             <div class="card-footer">
-              <a href="week-5.html">more...</a>
+              <a href="https://github.com/vanessadickey/project-weather-app">Github</a>
             </div>
           </div>
             </div>
