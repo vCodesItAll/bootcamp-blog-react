@@ -195,21 +195,17 @@ function BlogPage(){
             <div class="card h-100">
            
               <img class="card-header"
-                src="img\NUX_Octodex.gif"
+                src="https://images.pexels.com/photos/4769486/pexels-photo-4769486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               />
             
             <div class="card-body">
-              <h4><a href="#">Week 3</a></h4>
+              <h4><a href="https://vanessadickey.github.io/mind-reader/">Mind Reader</a></h4>
               <p class="card-text text-truncate-11">
-                I chose NUXtocat for this week because its image appears laid back and excited to create. It's also holding the hand waving signal which I'm attributing to a willingness to seek help and share accomplishments and challenges.
-
-I like an analogy that Jacob made over the summer regarding the roles of HTML, CSS, and Javascript. HTML is like the skeleton. It's the bare bones - the structure. CSS is like the skin. It's what we cover the HTML in to pretty it up. Javascript is the muscles and joints that allow the skeleton to function - to move around and do a lil happy dance.
-
-My blog is made from markdown at the moment. I incorporate gifs and pngs for pictures. It's formatted with unordered lists and line breaks. As the blog develops I can use html to create a nav bar and CSS to apply some pastel colors. I can use javascript to create a carousel or a stickied nav bar.
+              A single page web app that plays a game with the user to read their mind.
               </p>
             </div>
             <div class="card-footer">
-              <a href="#">more...</a>
+              <a href="https://github.com/vanessadickey/mind-reader">Github</a>
             </div>
           </div>
             </div>
