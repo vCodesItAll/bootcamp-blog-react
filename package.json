@@ -1,0 +1,24 @@
+{
+  "homepage": "http://vanessadickey.github.io/bootcamp-blog-react",
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "firebase": "^10.5.0",
+    "next": "13.5.6",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "firebase-tools": "^0.1.6",
+    "gh-pages": "^6.0.0"
+  }
+}
